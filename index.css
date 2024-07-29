@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> CSS </title>
+<style>
+p {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+<p>Welcome to DevOps Lab</p>
+</body>
+</html>
